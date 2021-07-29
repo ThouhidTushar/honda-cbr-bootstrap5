@@ -1,4 +1,10 @@
 
+* 
+{ margin: 0; 
+ padding: 0; }
+
+
+
 body{
 	
 	font-family: 'Roboto', sans-serif;
@@ -29,7 +35,7 @@ header{
 }
 
 .p-referance{
- padding: 22%
+ padding: 10%
  
 }
 
