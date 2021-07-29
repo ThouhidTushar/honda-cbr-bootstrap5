@@ -10,7 +10,39 @@ header{
 	
 }
  
-.bg-small{
+.btn-reference{
+	background-image: linear-gradient(to bottom, #E76F51 100%, #E76F51 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+.bg-reference{
 	color: #E76F51;
 	margin-top: -25px;
+}
+
+.bg-reference2{
+	color: #E76F51;
+	
+}
+
+.p-referance{
+ padding: 22%
+ 
+}
+
+.checked {  
+	color : rgb(248, 176, 8);  
+	font-size : 20px;  
+}  
+.unchecked {  
+	font-size : 20px;  
+}  
+
+
+.my-10 {
+	margin-top: 130px;
+	margin-bottom: 130px;
 }
